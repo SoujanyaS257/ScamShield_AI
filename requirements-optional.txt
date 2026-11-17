@@ -1,0 +1,7 @@
+# Optional, larger engines. The app runs without them.
+# EasyOCR downloads a detection model on first use and depends on PyTorch.
+easyocr>=1.7
+# Whisper tiny is the model the voice module loads when this package is present.
+openai-whisper>=20240930
+# Windows QR fallback. OpenCV is already used by default and does not need this.
+pyzbar>=0.1.9

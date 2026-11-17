@@ -1,0 +1,57 @@
+{
+  "algorithm": "tfidf_logistic_regression",
+  "vectorizer": "word tf-idf, unigrams and bigrams, sublinear tf",
+  "preprocessing": "lowercase, strip zero-width characters, replace urls emails and long numbers",
+  "random_state": 42,
+  "test_fraction": 0.25,
+  "train_size": 123,
+  "test_size": 41,
+  "label_counts": {
+    "SAFE": 55,
+    "SUSPICIOUS": 54,
+    "FRAUD": 55
+  },
+  "accuracy": 0.8293,
+  "macro_f1": 0.8202,
+  "classification_report": {
+    "SAFE": {
+      "precision": 0.75,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.8,
+      "support": 14.0
+    },
+    "SUSPICIOUS": {
+      "precision": 0.8888888888888888,
+      "recall": 0.6153846153846154,
+      "f1-score": 0.7272727272727273,
+      "support": 13.0
+    },
+    "FRAUD": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1-score": 0.9333333333333333,
+      "support": 14.0
+    },
+    "accuracy": 0.8292682926829268,
+    "macro avg": {
+      "precision": 0.8379629629629629,
+      "recall": 0.8241758241758242,
+      "f1-score": 0.8202020202020203,
+      "support": 41.0
+    },
+    "weighted avg": {
+      "precision": 0.8367208672086721,
+      "recall": 0.8292682926829268,
+      "f1-score": 0.8224685883222468,
+      "support": 41.0
+    }
+  },
+  "dataset": "Original synthetic messages in data/corpus.py, written for ScamShield AI. They are not real user reports, not the Enron corpus, and not a production fraud feed.",
+  "limitations": [
+    "The model memorizes patterns in a small synthetic set and will miss paraphrases it has not seen.",
+    "Logistic regression probabilities are not perfectly calibrated.",
+    "Bag-of-words features ignore word order beyond bigrams and do not understand sarcasm or images.",
+    "Channel is not a model feature. SMS, email, chat, and call text share one classifier.",
+    "URL, QR, OCR, and audio modules depend on this classifier only after text is extracted."
+  ]
+}

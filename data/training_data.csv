@@ -1,0 +1,165 @@
+channel,label,text
+sms,SAFE,"Priya, the design review is at 3 pm in the studio. I will bring the printed mockups."
+sms,SAFE,"Mom, I reached the station. The train is on time and I will be home by 8."
+sms,SAFE,Your table for two at Harbor Grill is confirmed for Friday at 7 pm.
+sms,SAFE,The library hold on Project Hail Mary is ready for pickup until Sunday.
+sms,SAFE,Team standup moved to 10:15 in room 4. Please update your own tickets before noon.
+sms,SAFE,Thanks for covering the shift yesterday. I left the spare key with the receptionist.
+sms,SAFE,Your electricity bill of 42 dollars is available in the city utility portal. Autopay runs on the 4th.
+sms,SAFE,Appointment with Dr. Shah is confirmed for Tuesday at 9:30. Reply STOP to opt out of reminders.
+sms,SAFE,The community garden meetup is Saturday at 9. Bring gloves if you have them.
+sms,SAFE,I am running ten minutes late to the cafe. Order me a tea if you arrive first.
+sms,SAFE,"Your password was changed successfully. If this was you, no action is needed."
+sms,SAFE,Slides from yesterday's workshop are in the class folder. Homework is optional.
+sms,SAFE,The plumber can visit Thursday between 1 and 3. The building manager will let him in.
+sms,SAFE,"Happy birthday. Dinner is still at our place, no need to bring anything."
+sms,SAFE,Your Amazon order was delivered to the front desk. Open the Amazon app if you want the photo.
+sms,SAFE,"We will never ask for your password, OTP, or a gift card. This is only a class reminder."
+sms,SAFE,The sprint review is Thursday at 4. The demo script is in the shared notes.
+sms,SAFE,Your subscription renewal receipt is in the app under Billing. The card on file was charged 9.99.
+sms,SAFE,"Can you review the paragraph I drafted? There is no link, I pasted it below in the doc."
+sms,SAFE,The school play starts at 6. Tickets are already held at the door under your name.
+sms,SAFE,I left the charger on your desk. The meeting with the client went well.
+sms,SAFE,Weather looks clear for the hike. We will meet at the north parking lot at 7.
+sms,SAFE,Your lab results are ready in the patient portal you already use. The clinic does not take payment by phone.
+sms,SAFE,Thanks for the introduction. I will write to Meera next week about the internship.
+sms,SAFE,The package from Northwind Books is out for delivery today between 2 and 6.
+email,SAFE,"Subject: Notes from Monday. Hi team, the notes are attached as a normal pdf in our company drive. No payment is due."
+email,SAFE,Subject: Interview schedule. Your conversation with the design team is Wednesday at 11. A calendar invite is on its way.
+email,SAFE,Subject: Potluck. I am bringing salad. Reply with what you would like to cook.
+whatsapp,SAFE,The group photo from the reunion is in the album. I cropped the one where the cake fell.
+whatsapp,SAFE,Aunty asked if you can pick up milk on the way home. No rush.
+transcript,SAFE,Thanks for calling the clinic. Your appointment is confirmed and we do not need a card number on this call.
+transcript,SAFE,This is the school office. The bus is delayed by fifteen minutes because of traffic. No fee is required.
+sms,SAFE,Your flight check-in is open in the airline app you booked with. Seat 14C is assigned.
+sms,SAFE,The landlord received the rent transfer. The receipt is in last month's email thread.
+sms,SAFE,Good morning. The office wifi password on the wall card still works.
+sms,SAFE,Chase alert: Your credit card was charged $14.20 at Whole Foods. Reply YES if authorized or NO to lock card. Never disclose your online password.
+sms,SAFE,Your Uber ride with driver Michael is arriving in 3 minutes in a silver Camry.
+sms,SAFE,Your prescription #49281 is ready for collection at CVS Pharmacy. Bring your insurance card.
+sms,SAFE,Dental cleaning reminder for Vikram on Thursday at 2:00 PM. Reply 1 to confirm or 2 to reschedule.
+sms,SAFE,Your delivery from Target was placed at your front door. Thank you for shopping with us.
+sms,SAFE,Hey are you free for coffee this Sunday around 11? Let me know!
+sms,SAFE,"GitHub security alert: New SSH key added to your account. If this was you, ignore this message."
+sms,SAFE,Gym membership monthly dues of $29.99 have been processed. See you at your next workout!
+sms,SAFE,Can you bring the quarterly report printouts to tomorrow's 9 AM budget meeting?
+sms,SAFE,Your order #88492 from Domino's Pizza is in the oven and out for delivery soon.
+email,SAFE,"Subject: Quarterly Roadmap Sync. Hi all, let's meet this Friday to review the Q3 product deliverables. The agenda is on Confluence."
+email,SAFE,Subject: Welcome to the team! We are thrilled to have you join engineering. IT will provision your laptop on Monday.
+email,SAFE,Subject: Receipt for your order #39420. Thank you for your purchase. Your receipt is attached for your tax records. No action required.
+email,SAFE,"Subject: Weekly newsletter: Python 3.12 release notes, PyData community highlights, and open-source contributions."
+whatsapp,SAFE,Don't forget mom's anniversary dinner at the Italian place tonight at 7:30. Dad already reserved the table.
+whatsapp,SAFE,Here are the class notes from today's linear algebra lecture. Let's study together tomorrow before the exam.
+whatsapp,SAFE,Can you share the recipe for that soup you made last week? It was delicious.
+transcript,SAFE,Thank you for calling City Water Department. Your balance is zero dollars and your next billing cycle starts on the fifteenth.
+transcript,SAFE,"Good afternoon, this is Sarah from Dr. Miller's office calling to confirm your annual health checkup tomorrow at ten thirty."
+transcript,SAFE,"Hi, this is Dave from apartment maintenance following up on the sink leak request. I will arrive tomorrow at noon."
+sms,SUSPICIOUS,We noticed a sign-in from a new browser. Review the activity page when you can. This message does not ask for a code.
+sms,SUSPICIOUS,Your parcel is waiting at the depot. Confirm the address today so it is not returned to the sender.
+sms,SUSPICIOUS,A document was shared with your email. Open it only if you recognize the sender.
+sms,SUSPICIOUS,Limited seats remain for the webinar you viewed. Registration closes tonight.
+sms,SUSPICIOUS,Your subscription renews tomorrow. Update the card in the service you already use if it has expired.
+sms,SUSPICIOUS,Someone requested a password reset on a learning site. Ignore this message if it was not you.
+sms,SUSPICIOUS,Please call the number printed on the back of your card if you do not recognize a 9.99 charge.
+sms,SUSPICIOUS,This invoice looks overdue. Contact billing if you already paid it.
+sms,SUSPICIOUS,Your account photo was updated from a new device. Check the profile if that surprises you.
+sms,SUSPICIOUS,Final notice: a parking citation may move to collections. Review it on the city site you normally use.
+sms,SUSPICIOUS,A delivery attempt failed. The courier will try again tomorrow unless the address is corrected.
+sms,SUSPICIOUS,Your mailbox is almost full. Delete old mail when you next sign in on your own computer.
+sms,SUSPICIOUS,We could not process the last membership payment. Update billing details in your account this week.
+sms,SUSPICIOUS,A login was blocked after several tries. Wait fifteen minutes and use the password you already know.
+sms,SUSPICIOUS,Your warranty registration is incomplete. Add the serial number in the manufacturer account if you want coverage.
+email,SUSPICIOUS,Subject: Shared file. Someone with a similar name shared a spreadsheet. Confirm you were expecting it before you open the file.
+email,SUSPICIOUS,"Subject: Payment reminder. Invoice 1842 is still open. If you paid by transfer, send the receipt to the bookkeeper."
+email,SUSPICIOUS,Subject: New device. Your streaming profile was opened in another city. Review devices if you were not travelling.
+whatsapp,SUSPICIOUS,This job posting is circulating in the group. The salary looks high and the company site is vague. Check it before you reply.
+whatsapp,SUSPICIOUS,Please review this offer before the timer expires. I am not sure the seller is who they claim to be.
+whatsapp,SUSPICIOUS,Forwarded many times: a voice note says banks will be closed tomorrow. I cannot find that on the official news site.
+transcript,SUSPICIOUS,The caller said they were from the card fraud desk but asked me to stay on the line while they verified my name and address only.
+transcript,SUSPICIOUS,A caller claimed a package is on hold and wanted me to confirm my home address. They did not ask for money yet.
+sms,SUSPICIOUS,Unusual activity was logged on the forum account. Reset the password yourself if you do not recognize the session.
+sms,SUSPICIOUS,"Your KYC documents are due for a routine refresh next month. Use the bank branch or the official app, not a text link."
+sms,SUSPICIOUS,The seller asked to move the conversation off the marketplace. That is against the marketplace rules.
+sms,SUSPICIOUS,"A charity collection in the building is short this month. Cash is being taken by the manager, and there is no receipt book."
+email,SUSPICIOUS,Subject: Action requested. The vendor portal shows your tax form as missing. Upload it through the portal you already bookmarked.
+sms,SUSPICIOUS,"Your number was selected for a customer survey. The questions ask about your bank, which feels unnecessary."
+sms,SUSPICIOUS,We tried to deliver a replacement SIM. Bring photo identification to the store if you want the line reissued.
+transcript,SUSPICIOUS,The caller knew the last four digits of a transaction and asked whether I had travelled. They told me not to share any code.
+whatsapp,SUSPICIOUS,A classmate is collecting a refundable deposit for a weekend trip in a personal account. Ask for the written plan first.
+sms,SUSPICIOUS,The customs form for your gift is incomplete. The store said you can correct it on the order page.
+email,SUSPICIOUS,"Subject: Password expires. Company policy says the intranet password expires Friday. Change it on the office network, not from a link in mail."
+sms,SUSPICIOUS,"You have an unpaid toll from last week. The amount is small, but the text does not name the highway authority."
+sms,SUSPICIOUS,USPS: We were unable to deliver your package due to an incomplete address. Update address within 24 hours at usps-track-item.info
+sms,SUSPICIOUS,Action required: Your Netflix profile payment method expired. Update billing to avoid service disruption.
+sms,SUSPICIOUS,Alert: A new login to your Google account from an unrecognized IP address in Moscow. Review active sessions now.
+sms,SUSPICIOUS,Attention: Flash clearance sale ends tonight at midnight. Up to 85% off premium electronics while stocks last.
+sms,SUSPICIOUS,Reminder: Your vehicle warranty is set to expire this month. Contact coverage specialist to extend.
+sms,SUSPICIOUS,You have 1 unread message waiting in your secure patient portal. Sign in to view.
+sms,SUSPICIOUS,Toll enforcement: You have an unpaid toll citation of $4.50. Pay promptly to prevent late penalties.
+sms,SUSPICIOUS,Your storage quota is 95% full. Cloud sync will stop unless upgraded soon.
+sms,SUSPICIOUS,"Bank security alert: Unusual debit of $149.00 detected. If this wasn't you, click link to contest the transaction."
+sms,SUSPICIOUS,Important: Your domain registration expires in 3 days. Renew before automatic release to registry.
+email,SUSPICIOUS,Subject: Urgent: Overdue invoice #9923. Attached is the statement. Please verify payment status immediately.
+email,SUSPICIOUS,Subject: Security notification. Your email storage limit exceeded 99%. Please review deleted items to prevent mail rejection.
+email,SUSPICIOUS,"Subject: Order confirmation. We received your order for $799.00. If you did not place this order, contact customer support."
+whatsapp,SUSPICIOUS,Forwarded: WhatsApp will start charging subscription fees next week. Forward this to 20 contacts to remain free.
+whatsapp,SUSPICIOUS,Forwarded: Government announcement regarding new tax subsidy. Check eligibility before deadline expires tomorrow.
+whatsapp,SUSPICIOUS,Earn 2000 to 5000 per day doing simple online reviews on Google Maps. No experience needed. Contact HR manager.
+transcript,SUSPICIOUS,The caller stated they were from card services inquiring about an international purchase attempt. They asked me to confirm my date of birth.
+transcript,SUSPICIOUS,Caller claimed to be from power company stating technician was en route to disconnect meter unless account balance was cleared today.
+transcript,SUSPICIOUS,A representative called saying my computer was broadcasting error signals and wanted me to open event viewer.
+sms,FRAUD,Your bank account is locked. Send the one-time passcode you just received so we can verify you.
+sms,FRAUD,IRS officer: a warrant is active. Buy 500 dollars in gift cards and read the codes to me to stop the arrest.
+sms,FRAUD,"You have won a 2,500 dollar grant. Pay the 49 dollar release fee at http://grant-claim-now.example/pay"
+sms,FRAUD,This is Microsoft support. Install AnyDesk and grant remote access so we can refund a virus charge.
+sms,FRAUD,FedEx customs fee is unpaid. Pay now or the parcel is destroyed: http://fedex-fee-pay.example/claim
+sms,FRAUD,Your Netflix was billed 899 dollars. Tell me the card number and CVV so I can reverse it.
+sms,FRAUD,"Hi grandson, I am in jail and need bail money wired today. Do not tell my parents."
+sms,FRAUD,"Dear customer, KYC has expired. Update it at http://kyc-update-sbi.example/login or the account will be blocked today."
+sms,FRAUD,Crime branch calling. Your Aadhaar is linked to money laundering. Stay on the line and share the OTP.
+sms,FRAUD,CEO here. I am in a meeting. Buy three Apple gift cards for a client and send me the codes. Urgent and confidential.
+sms,FRAUD,You are hired for the work from home job. Pay the refundable registration fee by wire transfer today.
+sms,FRAUD,Share your UPI PIN to receive the refund that failed yesterday. The credit will reverse instantly.
+sms,FRAUD,Wallet support: read me your seed phrase to restore the coins. Do not hang up.
+sms,FRAUD,Customs seized a parcel in your name. Transfer the duty in bitcoin or officers will file a case.
+sms,FRAUD,"Congratulations, the lottery selected your mobile number. Pay the tax charge and claim the prize today."
+email,FRAUD,Subject: Mailbox suspended. Your mailbox will be disabled. Confirm your identity and send the password within 30 minutes.
+email,FRAUD,PayPal Security <alert@paypa1-secure.example>: your wallet is limited. Verify the password at http://paypal.security-check.example/login
+email,FRAUD,Subject: Overdue invoice. Open invoice.html and pay the wire immediately or legal action starts.
+whatsapp,FRAUD,Forwarded many times. Share this with all your contacts and send a processing fee to unlock the government benefit.
+whatsapp,FRAUD,I am stuck abroad and lost my wallet. Wire money to this new account tonight and do not tell anyone.
+transcript,FRAUD,"This is the income tax department. A warrant is ready. Stay on the line, buy gift cards, and read the codes to the officer."
+transcript,FRAUD,Bank fraud desk. Do not hang up. I will send an OTP and you must read that verification code back to me.
+transcript,FRAUD,Tech support saw a hacker in your computer. Download TeamViewer and let me control the machine while you pay the service fee.
+sms,FRAUD,Your number won a new phone. Pay the delivery charge at http://192.0.2.25/amazon-prize/login before it expires today.
+sms,FRAUD,HR portal: the vacancy is confirmed. Pay the training fee in USDT and send the transaction id.
+sms,FRAUD,We are Amazon security. Tell me the one-time password or the order will be marked as fraud and your account seized.
+email,FRAUD,Subject: Confidential. I am the CEO. Wire the vendor payment today and keep this confidential until I land.
+whatsapp,FRAUD,Investment group: deposit bitcoin tonight and the mentor will return double. Send the wallet password so we can trade for you.
+transcript,FRAUD,Police caller said a parcel of drugs used my name. To close the case I must transfer a release fee and share the OTP.
+sms,FRAUD,The courier cannot deliver until you confirm the card PIN and CVV on this chat.
+sms,FRAUD,Final warning from the electricity board. Pay the unpaid bill at http://electric-bill-pay.example/verify or a case will be filed.
+sms,FRAUD,Your Google Pay account is suspended. Install remote desktop software and give the agent the OTP to unlock it.
+email,FRAUD,Subject: Inheritance office. A relative left you funds. Pay the notary fee by Western Union and send the receipt.
+whatsapp,FRAUD,"Job alert: hiring today for 80,000 a month. Pay the registration fee to apply and share your KYC password."
+transcript,FRAUD,The caller pretended to be my nephew in a hospital and asked me to wire cash to a stranger immediately.
+sms,FRAUD,URGENT: Chase Bank alert. Your debit card has been suspended due to fraudulent activity. Verify your PIN and CVV at http://chase-security-restore.example to reactivate.
+sms,FRAUD,"Wells Fargo: Immediate action required. Send the 6-digit OTP passcode to this number to stop the wire transfer of $2,400 to an unauthorized recipient."
+sms,FRAUD,Customs & Border Protection: Illegal parcel containing narcotics seized in your name. Pay $450 customs clearance fine in bitcoin or federal arrest warrant issued.
+sms,FRAUD,"Income Tax Dept: Your tax refund of $1,850.00 is ready. Enter your bank credentials and NetBanking password at http://tax-refund-portal.example/claim to deposit."
+sms,FRAUD,DHL Express: Delivery fee of $2.99 unpaid for international parcel #83921. Pay card details and CVV immediately at http://dhl-fee-release.example/pay or package is destroyed.
+sms,FRAUD,Your Apple ID has been compromised. Download AnyDesk or RustDesk and call Apple Care support to grant remote desktop control.
+sms,FRAUD,Electricity Alert: Power will be disconnected tonight at 8:30 PM by state board. Pay outstanding bill and call recovery officer immediately.
+sms,FRAUD,"Congratulations! You won $50,000 in Walmart annual sweepstakes. Wire $200 handling tax via MoneyGram or Western Union to release check."
+sms,FRAUD,Trust Wallet Support: Your crypto wallet will be deactivated. Input your 12-word seed phrase at http://wallet-validate-key.example to restore tokens.
+sms,FRAUD,State Bank alert: KYC blocked today. Click http://sbi-kyc-quickupdate.example/login and submit Aadhaar and NetBanking password immediately.
+email,FRAUD,"Subject: Urgent Wire Request. This is the CEO. I am in an executive board meeting. Wire $45,000 to our new consultant vendor immediately and keep this confidential."
+email,FRAUD,Subject: Microsoft Account Suspension. Unauthorized login detected. Open secure-verify.html and enter your password and phone passcode within 15 minutes.
+email,FRAUD,"Subject: Legal Notice of Summons. Federal Court case filed against you for money laundering. Open court_summons.exe or transfer $1,500 settlement fine."
+whatsapp,FRAUD,Forwarded many times: Free $500 Amazon gift cards for everyone celebrating company anniversary! Claim yours at http://free-amazon-cards.example before cards run out!
+whatsapp,FRAUD,"Hi Mom, my phone fell in the lake and this is my new temporary number. I have an emergency bill due today, please wire $850 to my friend's account ASAP!"
+whatsapp,FRAUD,"VIP Trading Club: Invest $500 in crypto today and get $5,000 back in 24 hours guaranteed! Send USDT to our corporate wallet and share transaction hash."
+transcript,FRAUD,"This is Officer Sharma from Mumbai Crime Branch. Your identity was found in a money laundering case. Stay on this call, transfer 50,000 rupees to safety account, and do not disconnect."
+transcript,FRAUD,Amazon security desk calling. Someone ordered a MacBook on your card. Do not hang up. Download TeamViewer on your computer and open your bank login so I can refund it.
+transcript,FRAUD,"IRS Agent calling. You have committed tax fraud and sheriff deputies are on their way. Go to Target or CVS right now, buy 500 dollars of Google Play gift cards, and read codes."
+transcript,FRAUD,Bank customer care: A suspicious login occurred. I am sending an OTP to your phone right now. You must read that 6-digit code to me to cancel the transaction.
