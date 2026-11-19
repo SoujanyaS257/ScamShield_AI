@@ -91,11 +91,3 @@ python -m pip install -r requirements-optional.txt
 - **pyzbar** is a second QR decoder. OpenCV is the one the tests use.
 
 The voice page can synthesize a sample with the Windows text-to-speech voice (`pyttsx3`) and then try to transcribe that file. If transcription fails, you still get the error. Use Phone Transcript Scanner to score the words directly.
-
-## Interview walkthrough
-
-1. Show a SAFE SMS and a FRAUD SMS. Point at the class probabilities, the indicator table, and the arithmetic in the explanation.
-2. Show `http://paypa1.com/login/verify`. The text model is not used. The look-alike host is a critical URL finding.
-3. Generate the sample QR. The payload is decoded and then passed through that same URL scorer.
-4. Open About and read the held-out classification report from `models/metrics.json`.
-5. Say what the system does not do: it does not fetch URLs, it does not claim calibration, and it does not treat a demo corpus as production data.
